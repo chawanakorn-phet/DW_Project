@@ -7,6 +7,7 @@ My name is Chawanakorn Phetcharoenrat
 Student from Khonkaen University, Faculty of Science, Department of Statistics, majoring in Statistical Information and Data Science.
 Student ID: 6673020247-7
 
+## Basic git command
 Command	When
 `git clone`	Get the course repo
 `git add` + `git commit`	Save your work
