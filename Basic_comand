@@ -1,0 +1,12 @@
+# Add all changes to the string area
+git add .
+# commit the changes with a message
+git commit -m "Your commit message here"
+# push the changes to the remote repository
+git push origin <remote-branch-name>
+# switch to the differance branch
+git swtich "branch name"
+
+#  pip commands
+# freeze the current environments's package and save them
+pip freeze > requirements.txt
